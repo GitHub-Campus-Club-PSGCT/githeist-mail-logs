@@ -1,0 +1,35 @@
+From: Abbilaash <abbilaash@githeist.com>
+To: Tech Team <tech@githeist.com>
+Date: 25th August 2025, 10:15 AM
+Subject: Database Maintenance & Transaction Logs Update
+
+Hello Team,
+
+I'll be performing scheduled maintenance on our financial transaction database tonight. Below are the details:
+
+Scheduled Maintenance:
+- Date: August 29, 2025
+- Time: 11:00 PM - 1:00 AM (IST)
+- Duration: 2 hours
+
+Affected Systems:
+- Transaction Database Cluster
+- Audit Logging System
+- Data Replication Services
+
+Changes:
+1. Database index optimization
+2. Transaction log rotation
+3. Performance improvements for high-volume queries
+4. Security patches for data encryption
+
+Impact:
+- Read-only access during maintenance
+- No transaction processing possible
+- Expected downtime: 2 hours
+
+Please ensure all critical operations are completed before the maintenance window. For any concerns, please reach out to me directly.
+
+Best regards,
+Abbilaash
+Backend Engineer

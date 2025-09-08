@@ -1,0 +1,24 @@
+From: Darshan <darshan@githeist.com>
+To: All Staff <all@githeist.com>
+Date: 29th August 2025, 9:00 AM
+Subject: System Maintenance & Server Logs Update
+
+Dear Team,
+
+Please be informed about the upcoming system maintenance and important updates:
+
+System Logs Rotation:
+   - Old log files will be archived
+   - New log retention policy: 90 days
+   - Critical logs will be backed up for 1 year
+
+Impact:
+- Brief service interruptions during maintenance window
+- All users will be logged out during the update
+- Please save your work before the maintenance begins
+
+For any questions or concerns, please contact the IT Helpdesk.
+
+Best regards,
+Darshan
+Systems Admin
